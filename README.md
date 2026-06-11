@@ -21,8 +21,7 @@
 - Platform migrations — Magento → Shopify (Matrixify), tax & catalog mapping
 
 **Integrations & Automation**
-- Shopify Flow, Klaviyo (email/SMS flows), ShipperHQ, Checkout Blocks
-- Make.com pipelines, Twilio, WMS & accounting systems
+- Shopify Flow, Klaviyo (email/SMS flows), Checkout Blocks
 - Admin & Storefront GraphQL API
 
 **Headless**
