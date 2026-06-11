@@ -1,35 +1,22 @@
 # Hi, I'm Volodymyr 👋
 
-**Senior Shopify Developer** — 6+ years turning complex e-commerce requirements into fast, maintainable stores.
+Senior Shopify Developer with 6+ years of experience. I build custom storefronts, embedded apps, and the commerce logic that Shopify doesn't provide out of the box.
 
-## 🛍️ Shopify Expertise
+## 🔭 What I work on
 
-**Theme Development**
-- Online Store 2.0 — sections everywhere, dynamic sections, JSON templates
-- Liquid, custom storefront features (cart drawers, quick order, variant logic)
-- Performance: Core Web Vitals, LCP optimization, critical CSS — mobile scores from 40 to 90+
-
-**Apps & Extensions**
-- Embedded apps — Remix, React, Shopify CLI, session tokens, OAuth, webhooks
-- Shopify Functions — discounts, shipping, checkout validation
-- Checkout UI Extensions & Web Pixels API
-
-**Commerce Architecture**
-- Native B2B — Companies, catalogs, draft order workflows, wholesale portals
-- Shopify Markets — multi-currency rate logic, international pricing
-- Shopify POS customization — modifier systems, restaurant workflows
-- Platform migrations — Magento → Shopify (Matrixify), tax & catalog mapping
-
-**Integrations & Automation**
-- Shopify Flow, Klaviyo (email/SMS flows), Checkout Blocks
-- Admin & Storefront GraphQL API
-
-**Headless**
-- Hydrogen / React Router 7, streaming SSR, cache strategies
+- 🛍️ **Themes** — Online Store 2.0, Liquid, performance optimization (mobile PageSpeed 42 → 90+)
+- ⚙️ **Apps & Functions** — Remix embedded apps, discount/shipping/validation Functions, Checkout UI Extensions
+- 🏢 **B2B & POS** — wholesale portals, draft order workflows, POS customizations
+- 🔄 **Migrations & integrations** — Magento → Shopify, Klaviyo, Shopify Flow, GraphQL APIs
 
 ## 🛠️ Stack
 
-`TypeScript` `JavaScript` `Liquid` `GraphQL` `React` `Remix` `Node.js` `Hydrogen` `Vite`
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ## 📫 Contact
 
